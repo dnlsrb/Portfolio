@@ -1,0 +1,110 @@
+
+.playfair-display-font {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+ .roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.bg-custom{
+background: rgb(255,255,255) !important;
+background: linear-gradient(90deg, rgba(255,255,255,1) 14%, rgba(183,200,255,1) 84%) !important;
+}
+.bg-custom-reverse{
+  background: rgb(183,200,255) !important;
+background: linear-gradient(90deg, rgba(183,200,255,1) 9%, rgba(255,255,255,1) 96%) !important;
+}
+.bg-html{
+  background-color: #e44c24 !important;
+}
+.bg-css{
+  background-color: #214ce5 !important;
+}
+.bg-figma{
+  background: rgb(255,114,98) !important;
+ 
+}
+.bg-bootstrap{
+  background-color:  #7511f6!important;
+}
+.bg-php{
+  background-color:   #777bb3 !important;
+}
+.bg-mysql{
+background: rgb(0,97,138) !important;
+color:white !important;
+}
+.cursor-pointer{
+  cursor:pointer;
+}
