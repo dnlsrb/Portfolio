@@ -134,3 +134,12 @@ background: linear-gradient(to top, #537895 100%, transparent 0%);
  .text-gradient{
   color:#e7eaf6;
 }
+.hover-link {
+   transition: color 0.3s ease-in;
+ 
+   color:white;
+}
+.hover-link:hover{
+  color:rgb(88, 188, 255);  
+}
+ 
