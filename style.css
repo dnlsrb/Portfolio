@@ -117,6 +117,16 @@ background: linear-gradient(90deg, rgba(183,200,255,1) 9%, rgba(255,255,255,1) 9
 background: rgb(0,97,138) !important;
 color:white !important;
 }
+
+.bg-java{
+background: #4d7997!important;
+color:#f58312!important;
+}
+.bg-c{
+  background: #8b73e3!important;
+color:white !important;
+}
+ 
 .cursor-pointer{
   cursor:pointer;
 }
