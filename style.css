@@ -1,4 +1,6 @@
-/* 
+  * {
+    transition: 10s linear;
+}/* 
 .playfair-display-font {
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -192,19 +194,7 @@ background: linear-gradient(to top, #537895 100%, transparent 0%);
     121px 979px #fff, 1044px 1069px #fff, 463px 381px #fff, 423px 112px #fff,
     523px 1179px #fff, 779px 654px #fff, 1398px 694px #fff, 1085px 1464px #fff,
     1599px 1869px #fff, 801px 1882px #fff, 779px 1231px #fff, 552px 932px #fff,
-    1057px 1196px #fff, 282px 1280px #fff, 496px 1986px #fff, 1833px 1120px #fff,
-    1802px 1293px #fff, 6px 1696px #fff, 412px 1902px #fff, 605px 438px #fff,
-    24px 1212px #fff, 234px 1320px #fff, 544px 344px #fff, 1107px 170px #fff,
- 
-    582px 248px #fff, 1308px 953px #fff, 628px 657px #fff, 897px 1535px #fff,
-    270px 931px #fff, 791px 467px #fff, 1336px 1732px #fff, 1013px 1653px #fff,
- 
-    1165px 277px #fff, 950px 694px #fff, 1746px 293px #fff, 793px 911px #fff,
-    528px 773px #fff, 1883px 1694px #fff, 748px 182px #fff, 1924px 1531px #fff,
-    100px 636px #fff, 1473px 1445px #fff, 1264px 1244px #fff, 850px 1377px #fff,
-    987px 1976px #fff, 933px 1761px #fff, 922px 1270px #fff, 500px 396px #fff,
-    1324px 8px #fff, 1967px 1814px #fff, 1072px 1401px #fff, 961px 37px #fff,
-    156px 81px #fff, 1915px 502px #fff, 1076px 1846px #fff, 152px 1669px #fff,
+     
     986px 1529px #fff, 1667px 1137px #fff;
 }
 
@@ -251,29 +241,23 @@ background: linear-gradient(to top, #537895 100%, transparent 0%);
     height: 3px;
     background: transparent;
     box-shadow: 387px 1878px #fff, 760px 1564px #fff, 1487px 999px #fff,
-    948px 1828px #fff, 1977px 1001px #fff, 1284px 1963px #fff, 656px 284px #fff,
  
-    1182px 237px #fff, 427px 1582px #fff, 859px 253px #fff, 458px 939px #fff,
-    1517px 1644px #fff, 1943px 60px #fff, 212px 1650px #fff, 966px 1786px #fff,
- 
-    494px 1957px #fff, 1296px 431px #fff, 175px 1507px #fff, 831px 121px #fff,
-    498px 1947px #fff, 617px 880px #fff, 240px 403px #fff;
 }
 
 
-@keyframes animStar {
+/* @keyframes animStar {
     from {
         transform: translateY(0px);
     }
     to {
-        transform: translateY(-2000px);
+        transform: translateY(-500px);
     }
 }
 @media screen and (min-width: 1980px) {
   .wrapper-star {
     display: none;
   }
-}
+} */
 .hover{
   transition:   .2s ease-in-out;
 }
