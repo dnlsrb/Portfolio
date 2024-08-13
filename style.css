@@ -97,6 +97,22 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 14%, rgba(183,200,255,1) 
   background: rgb(183,200,255) !important;
 background: linear-gradient(90deg, rgba(183,200,255,1) 9%, rgba(255,255,255,1) 96%) !important;
 }
+.text-title{
+  color: #B0B0B0;
+}
+.text-title-read{
+  color: #6C6C6C;
+}
+.text-paragraph{
+  color: #9E9E9E;
+}
+.text-paragraph-read{
+  color: #708090;
+}
+.text-main{
+  color: #58bcff;
+}
+
 .bg-html{
   background-color: #e44c24 !important;
 }
@@ -145,12 +161,14 @@ background: linear-gradient(to top, #537895 100%, transparent 0%);
 .hover-link {
    transition: color 0.3s ease-in;
  
-   color:white;
+   color:#9E9E9E;
 }
 .hover-link:hover{
-  color:rgb(88, 188, 255);  
+  color:#58bcff;  
 }
- 
+#Main svg:hover {
+  fill: #58bcff;
+}
 
 /*  */
 .wrapper-star{
